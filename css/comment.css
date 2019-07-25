@@ -1,0 +1,74 @@
+#comment_div{
+	
+}
+#post_container{
+	border-radius: 0px;
+}
+#post_titles span{
+	font-size: 25px;
+	color: orange;
+}
+#post_statuss p{
+	font-size: 18px;
+	font-weight: 500;
+	color: white;
+}
+#comment_div{
+	height: auto;
+	background-color: #383737;
+	float: right;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	padding: 5px;
+	padding-top: 10px;
+}
+#likes{
+	float: left;
+}
+#likes span{
+	font-size: 17px;
+	color: white;
+	font-weight: 5000;
+}
+#likes a{
+	color: orange;
+}
+#input{
+	border-bottom: 2px solid  #252323;
+	padding-bottom: 7px;
+}
+#input_comment{
+	border: none;
+	padding: 5px;
+	padding-left: 20px;
+	border-radius: 5px;
+	width: 80%;
+	margin-left: 25px;
+}
+.btn_comment{
+	background-color: orange;
+
+}
+#comments{
+	color: white;
+	padding-left: 50px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-bottom: 2px solid  #252323;
+}
+#comments span{
+	color: orange;
+	font-size: 17px;
+	font-weight: 700;
+}
+#comments p{
+	margin-left: 10px;
+}
+#comments a{
+	color: orange;
+}
+#comments #comment_date{
+	font-size: 14px;
+	color: #969696;
+	font-weight: 500;
+}

@@ -1,0 +1,130 @@
+#center_content{
+	
+	
+}
+#ask_container{
+	margin-left: 20px;
+	background-color: #252323;
+	height: auto;
+	margin-top: 65px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius: 5px;
+	float: right;
+}
+#ask_container #numbers{
+	float: right;
+}
+#ask_container span{
+	font-size: 20px;
+	color: white;
+}
+#ask_container a{
+	font-size: 13px;
+	color: white;
+
+}
+.post{	
+	background-color: orange;
+	color: white;
+	width: auto;
+	float: right;
+}
+
+#status_output{
+	background-color: #252323;
+	height: auto;
+	margin-top: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius: 5px;
+	margin-bottom: 15px;
+}
+#status_output span{
+	color: white;
+	font-weight: 600;
+	font-size: 17px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#search_container{
+	float: right;
+}
+#button_div{
+	float: right;
+	margin-left: 5px;
+}
+#search_text{
+	border-radius: 5px;
+	border: none;
+	border-color: white;
+	height: 30px;
+	padding-left: 10px;
+	width: 250px;
+}
+.search_button{
+	background-color: orange;
+	color: black;
+	width: 108px;
+	height: 30px;
+	display: inline-block;
+    padding: 3px 12px;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+#post_container{
+	background-color: #252323;
+	height: auto;
+	margin-top: 20px;
+	border-radius: 5px;
+	padding: 5px;
+}
+#like_dislike{
+	padding: 0;
+	border-right: 1px solid white;
+}
+#like{
+	color: white;
+}
+#like span{
+	font-size: 20px;
+	padding-top: 15px;
+}
+#like p{
+	color: orange;
+}
+
+#post_title span{
+	color: orange;
+	font-size: 20px;
+}
+#post_title{
+	padding: 5px;
+	border-bottom: 1px solid white;
+
+}
+#post_status p{	
+	margin-top: 10px;
+	color: white;
+}
+#post_comment span{
+	color: #969696;
+}
+#comment{
+	float: right;
+}
+#comment a{
+	color: orange;
+}
